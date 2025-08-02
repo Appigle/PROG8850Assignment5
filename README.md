@@ -1,6 +1,7 @@
 # PROG8850Assignment5
 mysql, python for working with indexes
-Check [Report.md](./Report.md)
+
+**Check [Report.md](./Report.md)**
 
 
 Download `archive.zip`, a dataset of ~100,000 ecommerce orders from [here](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download) using your google id. Make a mysql database to create the schema and import the data from the .csv files. Make some tests that time queries on amount and other scalar fields in te database.
