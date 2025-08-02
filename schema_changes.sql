@@ -1,1 +1,1 @@
-CREATE DATABASE IF NOT EXISTS flyway_test;
+CREATE DATABASE IF NOT EXISTS olist_ecommerce;
